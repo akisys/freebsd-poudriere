@@ -1,1 +1,4 @@
 net/syncthing
+net-mgmt/kibana
+www/nginx
+www/apache24
