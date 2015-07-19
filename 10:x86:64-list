@@ -2,3 +2,5 @@ net/syncthing
 net-mgmt/kibana
 www/nginx
 www/apache24
+lang/php56
+lang/php56-extensions
