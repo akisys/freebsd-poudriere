@@ -4,7 +4,12 @@ www/nginx
 www/apache24
 lang/php55
 lang/php55-extensions
+lang/php56
+lang/php56-extensions
 graphics/php55-gd
 converters/php55-mbstring
+converters/php56-mbstring
 security/php55-openssl
+security/php56-openssl
 graphics/php55-exif
+graphics/php56-exif
